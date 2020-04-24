@@ -1,0 +1,108 @@
+@media (min-width: 768px) {
+    .nosotros, .upnav {display: none;}
+    .article0 {
+        padding: 53px 51px 57px;
+    }
+    .one, .text, .actualities a, .article3 .text {
+        font-size: 18px;
+    }
+    .enlacebox a {
+        font-size: 15px;
+    }
+    .article img {
+        width: 221px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .article2 {
+        padding: 0 32px;
+        margin: auto;
+        max-width: calc(100% - 225px);
+        display: inline-block;
+    }
+    .secondpart {
+        padding: 0 30px 70px;
+    }
+    .article2 h2 {
+        font-size: 23px
+    }
+    .actualities {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .actualities a {
+        background: #00008f;
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        padding: 17px 25px;
+    }
+    .tecnology {
+        padding: 0 45px;
+    }
+    .tecnology h1 {
+        font-size: 44px;
+    }
+    .article3 .enlacebox {
+        text-align: left;
+    }
+    .article3 {
+        padding: 32px 49px 70px;
+    }
+    .article3 a {
+        padding: 17px 31px;
+    }
+    .box41 {
+        padding: 32px 40px 32px 50px;
+    }
+    .box411 {
+        padding: 9px 60px 27px 0px;
+        overflow: hidden;
+    }
+    .boxup {
+        float: left;
+        max-width: calc(100% - 284px);
+    }
+    .box41 .enlacebox {
+        float: right;
+        padding-top: 62px;
+    }
+    .box41 .text {
+        font-size: 15px;
+    }
+    .box42 {
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        height: 105px;
+    }
+    .box42 h3 {
+        width: calc(100% - 391px);
+    }
+    .selectores {
+        display: none;
+    }
+    .noselectores {
+       background: #3b3fd8;
+       color: #f4f5fd;
+       padding: 30px 20px;
+    }
+    .izq {
+        display: inline-block;
+    }
+    .izq p {
+        font-size: 11px;
+        font-weight: bold;
+        padding-bottom: 10px;
+    }
+    .izq li {
+        line-height: 25px;
+        font-size: 11px;
+        font-weight: bold;
+    }
+    .pie {
+        text-align: right;
+        padding: 14px 28px;
+        font-size: 11px;
+    }
+}
