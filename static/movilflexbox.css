@@ -21,7 +21,7 @@
     margin: 6px 0px;
 }
 .article1 {
-    background: url(images/mujer.png);
+    background: url(/images/mujer.png);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -105,7 +105,7 @@ h2 {
     padding: 17px 87px;
 }
 .article4 {
-    background: url(images/mujeres.png);
+    background: url(/images/mujeres.png);
     background-size: cover;
     padding: 76px 32px;
 }
