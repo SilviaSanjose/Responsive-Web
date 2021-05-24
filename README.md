@@ -1,3 +1,3 @@
 # Responsive-Web-Html-Css
 
-# Maquetación Web
+Maquetación Web responsiva
